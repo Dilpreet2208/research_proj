@@ -1,0 +1,97 @@
+Research paper names,Citations,URL,Problem addressed,Challenges,Failures,Limitations,References
+"Prompting Multilingual Large Language Models to Generate Code-Mixed
+Texts: The Case of South East Asian Languages",27,https://arxiv.org/pdf/2303.13592,,,,,
+Understanding and Mitigating Language Confusion in LLMs,9,https://arxiv.org/pdf/2406.20052?,,,,,
+How Does Quantization Affect Multilingual LLMs?,4,https://arxiv.org/pdf/2407.03211,,,,,
+"Multilingual Pretraining Using a Large Corpus Machine-Translated from 
+a Single Source Language",0,https://arxiv.org/pdf/2410.23956,,,,,
+Do Multilingual Language Models Think Better in English?,38,https://arxiv.org/pdf/2308.01223,,,,,
+"A Survey on Large Language Models with Multilingualism: Recent Advances 
+and New Frontiers",11,https://arxiv.org/pdf/2405.10936,,,,,
+"Responsible Multilingual Large Language Models: A Survey of Development, 
+Applications, and Societal Impact",2,https://arxiv.org/pdf/2410.17532,,,,,
+"Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for 
+Multi-Turn Intent Classification",1,https://arxiv.org/pdf/2411.14252,,,,,
+"Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for 
+LLM-Powered Dialog Systems in Production",0,https://arxiv.org/pdf/2411.12307,,,,,
+"Is Translation All You Need? A Study on Solving Multilingual Tasks 
+with Large Language Models",23,https://arxiv.org/pdf/2403.10258,,,,,
+"1+1>2: Can Large Language Models Serve as Cross-Lingual Knowledge 
+Aggregators?",1,https://arxiv.org/pdf/2406.14721,,,,,
+A survey of multilingual large language models,0,https://www.cell.com/patterns/pdf/S2666-3899(24)00290-3.pdf,,,,,
+Lens: Rethinking Multilingual Enhancement for Large Language Models,0,https://arxiv.org/pdf/2410.04407,,,,,
+"Breaking the Programming Language Barrier: Multilingual Prompting to 
+Empower Non-Native English Learners",0,https://arxiv.org/pdf/2412.12800,,,,,
+"Bridging the Gap: Dynamic Learning Strategies for Improving Multilingual 
+Performance in LLMs",0,https://arxiv.org/pdf/2405.18359,,,,,
+Zero-shot cross-lingual transfer in instruction tuning of large language models,4,https://arxiv.org/pdf/2402.14778,,,,,
+"Crosslingual Capabilities and Knowledge Barriers in Multilingual Large 
+Language Models",0,https://arxiv.org/pdf/2406.16135,,,,,
+"Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation 
+in Multilingual LLM Applications?",5,https://arxiv.org/pdf/2403.04792,,,,,
+Training Bilingual LMs with Data Constraints in the Targeted Language,0,https://arxiv.org/pdf/2411.12986,,,,,
+"LLMs Beyond English: Scaling the Multilingual Capability of LLMs with
+Cross-Lingual Feedback",13,https://arxiv.org/pdf/2406.01771,,,,,
+Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models,1,https://arxiv.org/pdf/2410.01335,,,,,
+"Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers",51,https://arxiv.org/pdf/2404.04925,,,,,
+Cross-lingual Language Model Pretraining,1700,https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf,,,,,
+LLM-powered Data Augmentation for Enhanced Cross-lingual Performance,89,https://arxiv.org/pdf/2305.14288,,,,,
+LangBridge: Multilingual Reasoning Without Multilingual Supervision,10,https://arxiv.org/pdf/2401.10695,,,,,
+"Small Data? No Problem! Exploring the Viability of Pretrained Multilingual
+Language Models for Low-resourced Languages",179,https://aclanthology.org/2021.mrl-1.11.pdf,,,,,
+Transfer Learning for Code-Mixed Data: Do Pretraining Languages Matter?,2,https://lirias.kuleuven.be/retrieve/754964,,,,,
+,,,,,,,
+A survey of automatic code generation from natural language,47,https://koreascience.kr/article/JAKO202120461938898.pdf,,,,,
+A Survey on Evaluating Large Language Models in Code Generation Tasks,5,https://arxiv.org/pdf/2408.16498,,,,,
+"A Survey on LLM-based Code Generation for Low-Resource and 
+Domain-Specific Programming Languages",1,https://arxiv.org/pdf/2410.03981,,,,,
+Deep Learning Based Code Generation Methods: Literature Review,15,https://arxiv.org/pdf/2303.01056,,,,,
+"A Comparative Review of AI Techniques for Automated Code Generation 
+in Software Development: Advancements, Challenges, and Future Directions",5,https://www.temjournal.com/content/131/TEMJournalFebruary2024_726_739.pdf,,,,,
+"A Comprehensive Survey of AI-Driven Advancements and Techniques 
+in Automated Program Repair and Code Generation",1,https://arxiv.org/pdf/2411.07586,,,,,
+In-ide code generation from natural language: Promise and challenges,169,https://dl.acm.org/doi/pdf/10.1145/3487569,,,,,
+"Expectation vs. experience: Evaluating the usability of code generation tools 
+powered by large language models",621,https://dl.acm.org/doi/pdf/10.1145/3491101.3519665,,,,,
+"The programmer's assistant: Conversational interaction with a large language 
+model for software development",263,https://dl.acm.org/doi/pdf/10.1145/3581641.3584037,,,,,
+"“What It Wants Me To Say”: Bridging the Abstraction Gap Between End-User 
+Programmers and Code-Generating Large Language Models",101,https://dl.acm.org/doi/pdf/10.1145/3544548.3580817,,,,,
+"Programming is hard-or at least it used to be: Educational opportunities and 
+challenges of ai code generation",306,https://dl.acm.org/doi/pdf/10.1145/3545945.3569759,,,,,
+Towards an understanding of large language models in software engineering tasks,58,https://link.springer.com/content/pdf/10.1007/s10664-024-10602-0.pdf,,,,,
+Large language models for software engineering: Survey and open problems,318,https://ieeexplore.ieee.org/iel7/10449397/10449662/10449667.pdf,,,,,
+"Natural language generation and understanding of big code for AI-assisted 
+programming: A review",85,https://www.mdpi.com/1099-4300/25/6/888/pdf,,,,,
+"Xcodeeval: An execution-based large scale multilingual multitask benchmark for 
+code understanding, generation, translation and retrieval",4,https://aclanthology.org/2024.acl-long.367.pdf,,,,,
+Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?,3,https://arxiv.org/pdf/2410.01353,,,,,
+Repository-level Code Translation Benchmark Targeting Rust,0,https://arxiv.org/pdf/2411.13990,,,,,
+MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks,5,https://arxiv.org/pdf/2312.13322,,,,,
+Deep learning for code generation: a survey,1,https://link.springer.com/content/pdf/10.1007/s11432-023-3956-3.pdf,,,,,
+"Large Language Models, Fine Tuning, Code Generation",0,https://ieeexplore.ieee.org/iel8/10772725/10772747/10772760.pdf,,,,,
+Text and Code Embeddings by Contrastive Pre-Training,427,https://arxiv.org/abs/2201.10005,,,,,
+"Studying the Usage of Text-To-Text Transfer Transformer to Support 
+Code-Related Tasks",268,https://ieeexplore.ieee.org/iel7/9401807/9401950/09401982.pdf,,,,,
+,,,,,,,
+Commonsense reasoning and commonsense knowledge in artificial intelligence,668,https://dl.acm.org/doi/pdf/10.1145/2701413,,,,,
+Commonsense Knowledge in Machine Intelligence,117,https://dl.acm.org/doi/pdf/10.1145/3186549.3186562,,,,,
+Commonsense Knowledge Mining from Pretrained Models,349,https://aclanthology.org/D19-1109.pdf,,,,,
+"An experimental study measuring the generalization of fine‐tuned language 
+representation models across commonsense reasoning benchmarks",16,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/exsy.13243,,,,,
+"Commonsense knowledge reasoning and generation with pre-trained language 
+models: A survey",56,https://ojs.aaai.org/index.php/AAAI/article/view/21496/21245,,,,,
+"A Survey of Recent Advances in Commonsense Knowledge Acquisition: Methods 
+and Resources",0,https://link.springer.com/content/pdf/10.1007/s11633-023-1471-3.pdf,,,,,
+,,,,,,,
+"CommonGen: A constrained text generation challenge for generative 
+commonsense reasoning",370,https://arxiv.org/pdf/1911.03705,,,,,
+Language Models of Code are Few-Shot Commonsense Learners,173,https://arxiv.org/pdf/2210.07128,,,,,
+Commonsense Knowledge Transfer for Pre-trained Language Models,7,https://arxiv.org/pdf/2306.02388,,,,,
+"It's All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual Transfer in 
+Commonsense Reasoning",40,https://arxiv.org/pdf/2106.12066,,,,,
+"MetaXCR: Reinforcement-Based Meta-Transfer Learning for Cross-Lingual 
+Commonsense Reasoning",2,https://proceedings.mlr.press/v203/he23a/he23a.pdf,,,,,
+"Common sense beyond english: Evaluating and improving multilingual language 
+models for commonsense reasoning",54,https://arxiv.org/pdf/2106.06937,,,,,
+How do Large Language Models Handle Multilingualism?,27,https://arxiv.org/pdf/2402.18815,,,,,
